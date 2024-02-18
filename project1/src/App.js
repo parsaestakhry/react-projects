@@ -7,7 +7,7 @@ import { Header } from "./containers/header/Header";
 import { Possibility } from "./containers/possibility/Possibility";
 import { WhatGPT3 } from "./containers/whatGPT3/WhatGPT3";
 import {Cta} from "./components/cta/Cta"
-
+import "./App.css"
 function App() {
   return (
     <div className="App">
