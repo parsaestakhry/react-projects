@@ -8,5 +8,11 @@
 
 body {
     background: var(--color-bg);
+
+}
+
+a {
+    color: unset;
+    text-decoration: none;
     
 }
